@@ -1,0 +1,2 @@
+# macVimrc
+mac vim configure
